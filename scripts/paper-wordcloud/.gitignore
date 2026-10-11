@@ -1,0 +1,25 @@
+# Development tools
+.claude/
+CLAUDE.local.md
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Output files (keep directory, ignore contents)
+output/*.png
+output/*.json
+output/*.txt
+papers/*.pdf
+
+# Temporary files
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
